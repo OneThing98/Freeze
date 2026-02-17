@@ -3,4 +3,5 @@ mod shape;
 
 pub use data::*; 
 pub use shape::*;
+pub use tensor::*;
 
